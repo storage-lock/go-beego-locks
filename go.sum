@@ -140,8 +140,8 @@ github.com/siddontang/rdb v0.0.0-20150307021120-fc89ed2e418d/go.mod h1:AMEsy7v5z
 github.com/sirupsen/logrus v1.2.0/go.mod h1:LxeOpSwHxABJmUn/MG1IvRgCAasNZTLOkJPxbbu5VWo=
 github.com/sirupsen/logrus v1.4.2/go.mod h1:tLMulIdttU9McNUspp0xgXVQah82FyeX6MwdIuYE2rE=
 github.com/ssdb/gossdb v0.0.0-20180723034631-88f6b59b84ec/go.mod h1:QBvMkMya+gXctz3kmljlUCu/yB3GZ6oee+dUozsezQE=
-github.com/storage-lock/go-events v0.0.4 h1:5cSu1OMde6B1FPywmfXTU9lBPrMLBo35OnypOAQAvk8=
-github.com/storage-lock/go-events v0.0.4/go.mod h1:eJtZJlcZEKJgDDzuLw+rCrdy3vImJZGQ6gsb55OOcZ4=
+github.com/storage-lock/go-events v0.0.5 h1:V8R4wYQ0q7KWZ2cfIdgctMhNY8Uiwgt0a1N3Jsq8Dds=
+github.com/storage-lock/go-events v0.0.5/go.mod h1:eJtZJlcZEKJgDDzuLw+rCrdy3vImJZGQ6gsb55OOcZ4=
 github.com/storage-lock/go-mysql-storage v0.0.3 h1:/Iw0Y57SEErzw6kaB/HM2Y8GI3UMuI8JwLzWrs5hrSg=
 github.com/storage-lock/go-mysql-storage v0.0.3/go.mod h1:mK1JKesUtGGz7nltJZJIvP1Rdzt5GBnJBP2iNpPRp9s=
 github.com/storage-lock/go-postgresql-storage v0.0.3 h1:6Uu5HuL6YNuU8LTORNWXNJIaA6Y7842RvqiCchOzgBw=
